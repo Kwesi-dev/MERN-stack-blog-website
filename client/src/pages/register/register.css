@@ -1,0 +1,50 @@
+.register{
+    height: calc(100vh - 50px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: url('https://source.unsplash.com/1000x800/?bookselve,pens');
+    background-size: cover;
+
+}
+
+.registerTitle{
+    font-size: 50px;   
+}
+
+.registerform{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.registerform > label{
+    margin: 10px 0;
+}
+.registerInput{
+    padding: 10px;
+    background-color: white;
+    border: none;
+}
+
+.registerbutton{
+    margin-top: 20px;
+    background-color: teal;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.registerLoginButton{
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    color: white;
+    background-color: lightcoral;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
