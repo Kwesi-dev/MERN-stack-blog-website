@@ -19,8 +19,8 @@ function Sidebar() {
                 <span className="sidebarTitle" >ABOUT ME</span>
                 <img src="https://source.unsplash.com/250x300/?nature,water" alt=""/>
                 <p>
-                    My name is Samuel and I am developer.I do both web development 
-                    and app development.I am a full stack web developer.
+                    My name is Samuel and I am developer.I do both web development.
+                    I am mern stack developer.
                 </p>
             </div>
             <div className="sidebarItem">
